@@ -1,5 +1,4 @@
-# Labs Go Expert FullCycle
-# Weather API - Deploy Cloud Run
+# Labs Go Expert FullCycle - Weather API - Deploy Cloud Run
 
 ## Configuração
 
